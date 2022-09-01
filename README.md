@@ -4,5 +4,9 @@ By Muhammad Monjurul Karim, Drew Racz, Gary Liu, Ziming Li, Yanguang Gong, Micha
 
 Download the dataset from  <a href="https://drive.google.com/drive/folders/164J2F4aI4DpZEEgIUZlvabOMVxWxP2O9?usp=sharing"> Here </a>
 
+## Description
+Details of the dataset will be updated soon.
 
+## Code for risky object localization in a driving scene
+Code will be released soon upon the acceptance of our paper.
 

@@ -1,4 +1,4 @@
-# Risky Object Localization (ROL) Dataset
+# Risky Object Localization (ROL) in a Driving Scene Dataset
 
 By Muhammad Monjurul Karim, Drew Racz, Gary Liu, Ziming Li, Yanguang Gong, Michael Incardona, Ruwen Qin, Zhaozheng Yin
 

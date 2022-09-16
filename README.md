@@ -12,3 +12,6 @@ Details of the dataset will be updated soon.
 ## Code for risky object localization in a driving scene
 Code will be released soon upon the acceptance of our paper.
 
+## Prediction Demo
+https://user-images.githubusercontent.com/40798690/190543479-3e5663ef-c0be-4b86-9bac-2302456c5780.mp4
+

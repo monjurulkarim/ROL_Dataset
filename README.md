@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/40798690/190543479-3e5663ef-c0be-4b86-
 <a name="citation"></a>
 ## Citation
 
-Please cite our paper if you find the code useful.
+Please cite our paper if you find the dataset useful.
 
 ```
 @ARTICLE{karim_am_net2023,

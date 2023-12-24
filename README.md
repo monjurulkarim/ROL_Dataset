@@ -4,7 +4,7 @@ By Muhammad Monjurul Karim, Drew Racz, Gary Liu, Ziming Li, Yanguang Gong, Micha
 
 ## Download
 > * Dataset : [Download](https://drive.google.com/drive/folders/164J2F4aI4DpZEEgIUZlvabOMVxWxP2O9?usp=sharing)  
-> * CNN Feature : [Download](https://drive.google.com/drive/folders/1RY5IbqBS4sBhlWdoya6AEp3RIrRu_G48?usp=sharing)
+> * CNN Feature : [Download](https://drive.google.com/drive/folders/1V5BoyF8QJOxjoPwSDYKuAO8r76gpPg8v?usp=sharing)
 
 ## Description
 
